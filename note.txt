@@ -1,0 +1,67 @@
+1、导航的下阴影 -
+2、a的hover
+3、banner的padding -
+4、*媒体查询
+5、userAgent
+6、footer
+7、兼容性 ff,chrome,ie9876
+
+了解
+响应式 布局
+
+
+知道
+a链接 lvha
+	a:link{font-weight : bold ;text-decoration : none ;color : #c00 ;} 		 	链接
+	a:visited {font-weight : bold ;text-decoration : none ;color : #c30 ;}		已访问链接
+	a:hover {font-weight : bold ;text-decoration : underline ;color : #f60 ;}	停留在上方
+	a:active {font-weight : bold ;text-decoration : none ;color : #F90 ;} 		殿下鼠标时
+需要以LVHA顺序进行编写
+
+
+clearfix
+
+伪类的兼容性
+
+
+!important //优先级  ---区别IE6.0
+
+#
+
+
+
+
+a的hover
+box-shadow
+background-position
+
+盒子模型   
+
+input
+
+box-sizing:content-box;
+box-sizing:border-box;
+margin 跟 width height 没关系
+padding 跟 width height 有关系
+
+display:inline-block 中间会有间隙
+
+
+html自定义属性
+jquery对DOM操作
+
+
+
+html 语义化
+css3 
+	新的属性 
+	动画 key-frame
+JS  DOM BOM
+	设计模式
+	原生JS
+	框架
+	http
+	模板加载器 seajs requirejs
+nodeJS
+	Javascript 应用与服务端
+	file
